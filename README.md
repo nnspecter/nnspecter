@@ -55,7 +55,7 @@ Web приложения & Мобильные приложения
 - Архитектура: FSD
 
 
-## 🌍 Connect with me
+## Контактные данные
 - Телеграм: https://t.me/neokanzaki
 - Gmail: nnspecter@gmail.com
 
