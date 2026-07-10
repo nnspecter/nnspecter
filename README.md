@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Neo 👋
-
 ### Frontend Developer • React • React Native • TypeScript
 
-Building modern web & mobile applications.
+Web приложения & Мобильные приложения
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;React+Native+Developer;TypeScript+Enthusiast;Always+Learning+New+Things" />
 
@@ -12,7 +10,7 @@ Building modern web & mobile applications.
 
 ---
 
-## 🚀 About Me
+## Обо мне
 
 - Возраст: 21 год
 - Гражданство: Казахстан
@@ -21,64 +19,18 @@ Building modern web & mobile applications.
 - Языки: Русский - нативный, Английский b1-b2
 ---
 
-## 🛠 Tech Stack
+## Стек технологий
 
-### Frontend
+- Фронтенд(web): React, Next.js, Vite, Webpack, TypeScript
+- Разработка моб приложений: React Native, Expo, Google Play Console
+- Стейт менеджеры: Zustand, Redux Toolkit, TanStack Query
+- Ui: SCSS, Tailwind CSS, Material UI (MUI), Framer Motion
+- Инструменты для разработки: Git, ESLint, Ide(vs studio && webstorm)
+- Архитектура проектов: Feature-Sliced Design (FSD) в больших проектах 
+- Дополнительно: Teegram Api(miniapps)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,vite" />
-</p>
 
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://cdn.simpleicons.org/expo/000000" height="48"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,java,postgres,supabase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,pnpm" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌟 Featured Projects
+## 🌟 Проекты
 
 ### 📱 Habits
 
@@ -102,23 +54,17 @@ Gamified habit tracker with analytics.
 ## 🌍 Connect with me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/nnspecter">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/neokanzaki">
 <img src="https://skillicons.dev/icons?i=telegram"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nnspecter@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
 ---
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
-
-</p>
