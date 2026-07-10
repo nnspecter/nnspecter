@@ -31,9 +31,9 @@ Web приложения & Мобильные приложения
 - Бекенд: Springboot, Nodejs, postgreeSQL, SQL
   
 ## Пройденные курсы
--Generative AI (Vanderbilt University): [Просмотреть сертификат](https://coursera.org/share/0ecb3d71e7f986348846853e6d2f964b)
--Prompt Engineering: [Просмотреть сертификат](https://coursera.org/share/7606bae06cff2ec73131f7c0f3959a7a)
--Leading Teams: Developing as a Leader (University of Illinois Urbana-Champaign): [Просмотреть сертификат](https://coursera.org/share/0157c6431cc4aab9a771f6312604beef)
+- Generative AI (Vanderbilt University): [Просмотреть сертификат](https://coursera.org/share/0ecb3d71e7f986348846853e6d2f964b)
+- Prompt Engineering: [Просмотреть сертификат](https://coursera.org/share/7606bae06cff2ec73131f7c0f3959a7a)
+- Leading Teams: Developing as a Leader (University of Illinois Urbana-Champaign): [Просмотреть сертификат](https://coursera.org/share/0157c6431cc4aab9a771f6312604beef)
 
 ## Проекты
 
