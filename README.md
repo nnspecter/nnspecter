@@ -16,35 +16,39 @@ Web приложения & Мобильные приложения
 - Гражданство: Казахстан
 - Образование: (2026) завершил обучение в Западно Казахстанском Университете им Махамбета Утемисова
 - Работа: в активном поиске стажировок и работы
-- Языки: Русский - нативный, Английский b1-b2
+- Языки: Русский - нативный, Английский - b1-b2
 ---
 
 ## Стек технологий
 
-- Фронтенд(web): React, Next.js, Vite, Webpack, TypeScript
+- Фронтенд(web): React, Next.js, Vite, Webpack, TypeScript, Babel
 - Разработка моб приложений: React Native, Expo, Google Play Console
 - Стейт менеджеры: Zustand, Redux Toolkit, TanStack Query
 - Ui: SCSS, Tailwind CSS, Material UI (MUI), Framer Motion
 - Инструменты для разработки: Git, ESLint, Ide(vs studio && webstorm)
 - Архитектура проектов: Feature-Sliced Design (FSD) в больших проектах 
 - Дополнительно: Teegram Api(miniapps)
+- Бекенд: Springboot, Nodejs, postgreeSQL, SQL
 
 
-## 🌟 Проекты
+## Проекты
 
-### 📱 Habits
+#### Habits 
+Первый большой проект в команде. Современное веб-приложение для отслеживания привычек, анализа прогресса и ведения наблюдений с помощью таблицы записей и метрик.
+  [Репозиторий](https://github.com/nnspecter/MyHabbitsReact)
+- Реализовано: Регистрация - вход, дашборд, аналитика, таблица записей, настройки, экспорт-импорт данных, мобильное приложение(kotlin, web view)
+- Состояние: неактивный бекенд.
+- Стек: React, TypeScript, Zustand, TanStack Query.
 
-Gamified habit tracker with analytics.
 
-**Stack**
-
-- React
-- TypeScript
-- Zustand
-- TanStack Query
-- Spring Boot API
-- PostgreSQL
-
+#### RpgTasks 
+Первое продакшен мобильное приложение в google play. Приложение с элементами гемификации, помогает систематизировать выполнение ежедневных задач.
+  [Репозиторий](https://github.com/nnspecter/rpgLocalNativeTaskList) 
+- Реализовано: Список задач, таймер концентрации, cистема ачивок и уровней, виджеты, сложный интерактивный ux, темы для всего ui(виджеты тоже), мультиязычность.
+- В процессе разработки: Соревновательная система друзей(ищу бекенд разработчика)
+- Состояние: в процессе открытого тестирования. [GooglePlay](https://play.google.com/apps/testing/com.nnspecter.rpgtasks)
+- Стек: ReactNative, TypeScript, Zustand.
+ 
 ---
 
 ### 💬 More projects coming soon...
@@ -52,19 +56,7 @@ Gamified habit tracker with analytics.
 ---
 
 ## 🌍 Connect with me
-
-<p>
-<a href="https://github.com/nnspecter">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://t.me/neokanzaki">
-<img src="https://skillicons.dev/icons?i=telegram"/>
-</a>
-
-<a href="mailto:nnspecter@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
+- Телеграм: https://t.me/neokanzaki
+- Gmail: nnspecter@gmail.com
 
 ---
