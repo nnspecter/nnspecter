@@ -53,11 +53,7 @@ Web приложения & Мобильные приложения
 - Состояние: в процессе открытого тестирования. [GooglePlay](https://play.google.com/apps/testing/com.nnspecter.rpgtasks)
 - Стек: ReactNative, TypeScript, Zustand.
 - Архитектура: FSD
----
 
-### 💬 More projects coming soon...
-
----
 
 ## 🌍 Connect with me
 - Телеграм: https://t.me/neokanzaki
