@@ -29,7 +29,11 @@ Web приложения & Мобильные приложения
 - Архитектура проектов: Feature-Sliced Design (FSD) в больших проектах 
 - Дополнительно: Teegram Api(miniapps)
 - Бекенд: Springboot, Nodejs, postgreeSQL, SQL
-
+  
+## Пройденные курсы
+-Generative AI (Vanderbilt University): [Просмотреть сертификат](https://coursera.org/share/0ecb3d71e7f986348846853e6d2f964b)
+-Prompt Engineering: [Просмотреть сертификат](https://coursera.org/share/7606bae06cff2ec73131f7c0f3959a7a)
+-Leading Teams: Developing as a Leader (University of Illinois Urbana-Champaign): [Просмотреть сертификат](https://coursera.org/share/0157c6431cc4aab9a771f6312604beef)
 
 ## Проекты
 
@@ -37,7 +41,7 @@ Web приложения & Мобильные приложения
 Первый большой проект в команде. Современное веб-приложение для отслеживания привычек, анализа прогресса и ведения наблюдений с помощью таблицы записей и метрик.
   [Репозиторий](https://github.com/nnspecter/MyHabbitsReact)
 - Реализовано: Регистрация - вход, дашборд, аналитика, таблица записей, настройки, экспорт-импорт данных, мобильное приложение(kotlin, web view)
-- Состояние: неактивный бекенд.
+- Состояние: неактивный бекенд.(не правильная fsd архитектура)
 - Стек: React, TypeScript, Zustand, TanStack Query.
 
 
@@ -48,7 +52,7 @@ Web приложения & Мобильные приложения
 - В процессе разработки: Соревновательная система друзей(ищу бекенд разработчика)
 - Состояние: в процессе открытого тестирования. [GooglePlay](https://play.google.com/apps/testing/com.nnspecter.rpgtasks)
 - Стек: ReactNative, TypeScript, Zustand.
- 
+- Архитектура: FSD
 ---
 
 ### 💬 More projects coming soon...
