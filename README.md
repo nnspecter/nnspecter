@@ -28,7 +28,8 @@ Web приложения & Мобильные приложения
 - Инструменты для разработки: Git, ESLint, Ide(vs studio && webstorm)
 - Архитектура проектов: Feature-Sliced Design (FSD) в больших проектах 
 - Дополнительно: Teegram Api(miniapps)
-- Бекенд: Springboot, Nodejs, postgreeSQL, SQL
+- Бекенд: Springboot, Nodejs
+- CУБД: mySQL, postgreeSQL, Microsoft Access
   
 ## Пройденные курсы
 - Generative AI (Vanderbilt University): [Просмотреть сертификат](https://coursera.org/share/0ecb3d71e7f986348846853e6d2f964b)
