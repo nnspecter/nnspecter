@@ -1,6 +1,6 @@
 <div align="center">
 
-### Frontend Developer • React • React Native • TypeScript • NodeJS
+### Fullstack Developer • React • React Native • TypeScript • NodeJS
 
 Web приложения & Мобильные приложения
 
