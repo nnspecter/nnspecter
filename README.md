@@ -28,7 +28,7 @@ Web приложения & Мобильные приложения
 - Ui: SCSS, Tailwind CSS, Material UI (MUI), Framer Motion
 - Инструменты для разработки: Git, ESLint, Ide(vs studio && webstorm)
 - Архитектура проектов: Feature-Sliced Design (FSD) в больших проектах 
-- Дополнительно: Teegram Api(miniapps)
+- Дополнительно: Telegram Api(miniapps)
 - Бекенд: Springboot, Nodejs(Express)
 - CУБД: mySQL, postgreeSQL, Microsoft Access
   
