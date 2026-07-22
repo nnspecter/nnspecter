@@ -1,10 +1,10 @@
 <div align="center">
 
-### Frontend Developer • React • React Native • TypeScript
+### Frontend Developer • React • React Native • TypeScript • NodeJS
 
 Web приложения & Мобильные приложения
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;React+Native+Developer;TypeScript+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;React+Native+Developer;Nodejs+Developer;Always+Learning+New+Things" />
 
 </div>
 
